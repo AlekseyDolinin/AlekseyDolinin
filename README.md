@@ -18,4 +18,4 @@
 ## Tech stack
 
 ## Software
-
+xcode figma scetch coreldraw photoshop illustrator indesign
