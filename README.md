@@ -1,8 +1,8 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Dolinin Aleksey
 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/AlekseyDolinin)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://t.me/AlekseyDolinin.ru)
+[![](https://img.shields.io/badge/-@allDolinin-%23181717?style=flat-square&logo=github)](https://github.com/alekseydolinin)
+[![](https://img.shields.io/badge/-@allDolinin-%23000000?style=flat-square&logo=codepen)](https://t.me/alekseydolinin.ru)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
 
