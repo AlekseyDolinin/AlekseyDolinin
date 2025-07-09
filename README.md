@@ -16,6 +16,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ## Tech stack
+VIPER WebSocket MVP ReSwift Redux UI JSON Xcode
+REST API Swift Git CocoaPods Firebase UI/UX Figma Alamofire
+iOS JSON API MVVM MVC UIKit Combine
 
 ## Software
 xcode figma scetch coreldraw photoshop illustrator indesign
