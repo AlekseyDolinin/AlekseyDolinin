@@ -7,7 +7,7 @@
 
 [![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/AlekseyDolinin/BB_SUI&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/AlekseyDolinin/Run&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
-[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
+[![vue-sonner](https://svg.bookmark.style/api?url=https://gitlab.labmedia.su/labmedia/boxbattle_corp_ios&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
 
 
 ### Programming languages
