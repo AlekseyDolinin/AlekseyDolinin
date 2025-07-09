@@ -10,10 +10,12 @@
 [![vue-sonner](https://svg.bookmark.style/api?url=https://apps.apple.com/ru/app/%D0%B2%D0%BE%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D0%B9/id1545133828&mode=light&style=horizontal)](https://apps.apple.com/ru/app/%D0%B2%D0%BE%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D0%B9/id1545133828)
 
 
-### Languages and tools  
+## Languages
+
 ![Swift](https://img.shields.io/badge/Swift-F5792A?logo=swift&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-### Tech stack
+## Tech stack
 
-### Software
+## Software
 
