@@ -34,10 +34,13 @@
   <img src="https://img.shields.io/badge/Firebase-green?logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/CocoaPods-green?logo=CocoaPods&logoColor=white"/>
   <img src="https://img.shields.io/badge/UIKit-green?logo=UIKit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-green?logo=SwiftUI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-green?logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UI/UX-green?logo=UI/UX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/swift-grey?logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-grey?logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-grey?logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-grey?logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Core%20Location-grey?logo=CoreLocation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MapKit-grey?logo=MapKit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kingfisher-grey?logo=Kingfisher&logoColor=white"/>
 </div>
 
 ## Software
@@ -50,7 +53,7 @@
   <img src="https://img.shields.io/badge/Adobe%20InDesign-blue?logo=Adobe%20InDesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/Corel%20Draw-blue?logo=coreldraw&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-blue?logo=adobe%20illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vscode-blue?logo=vscode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-blue?logo=vscode&logoColor=white"/>
 </div>
 <br />
 <br />
