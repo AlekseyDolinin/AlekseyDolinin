@@ -17,28 +17,28 @@
 
 ## Tech stack
 <div>
-  <img src="https://img.shields.io/badge/Git-blue?logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST API-blue?logo=RESTAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-blue?logo=JSON&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM-orange?logo=MVVM&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC-orange?logo=MVC&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVP-orange?logo=MVP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VIPER-orange?logo=VIPER&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-orange?logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReSwift-grey?logo=ReSwift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alamofire-grey?logo=Alamofire&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Combine-grey?logo=Combine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSocket-grey?logo=WebSocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-green?logo=Firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CocoaPods-green?logo=CocoaPods&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-green?logo=UIKit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-green?logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI/UX-green?logo=UI/UX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-grey?logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-grey?logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Core%20Location-grey?logo=CoreLocation&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MapKit-grey?logo=MapKit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kingfisher-grey?logo=Kingfisher&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-15191F?logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST API-15191F?logo=RESTAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-15191F?logo=JSON&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-15191F?logo=MVVM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC-15191F?logo=MVC&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVP-15191F?logo=MVP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIPER-15191F?logo=VIPER&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-15191F?logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReSwift-15191F?logo=ReSwift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alamofire-15191F?logo=Alamofire&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Combine-15191F?logo=Combine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-15191F?logo=WebSocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-15191F?logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CocoaPods-15191F?logo=CocoaPods&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-15191F?logo=UIKit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-15191F?logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI/UX-15191F?logo=UI/UX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-15191F?logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-15191F?logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Core%20Location-15191F?logo=CoreLocation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MapKit-15191F?logo=MapKit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kingfisher-15191F?logo=Kingfisher&logoColor=white"/>
 </div>
 
 ## Software
