@@ -1,4 +1,4 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Dolinin Aleksey
+# Hi there 👋
 
 [![](https://img.shields.io/badge/-@allDolinin-%23181717?style=flat-square&logo=github)](https://github.com/alekseydolinin)
 [![](https://img.shields.io/badge/-@allDolinin-%23000000?style=flat-square&logo=telegram)](https://t.me/alekseydolinin)
@@ -11,23 +11,44 @@
 
 
 ## Languages
-
-![Swift](https://img.shields.io/badge/Swift-F5792A?logo=swift&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-
-## Tech stack
-VIPER WebSocket MVP ReSwift Redux UI JSON Xcode
-REST API Swift Git CocoaPods Firebase UI/UX Figma Alamofire
-iOS JSON API MVVM MVC UIKit Combine
-
-## Software
-xcode figma scetch coreldraw photoshop illustrator indesign
-
-
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<div>
+  <img src="https://img.shields.io/badge/swift-orange?logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?logo=Python&logoColor=white"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=alekseydolinin&style=flat-square&color=blue" alt=""/>
+## Tech stack
+<div>
+  <img src="https://img.shields.io/badge/Git-blue?logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST API-blue?logo=RESTAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-blue?logo=JSON&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-orange?logo=MVVM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC-orange?logo=MVC&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVP-orange?logo=MVP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIPER-orange?logo=VIPER&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-orange?logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReSwift-grey?logo=ReSwift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alamofire-grey?logo=Alamofire&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Combine-grey?logo=Combine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-grey?logo=WebSocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-green?logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CocoaPods-green?logo=CocoaPods&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-green?logo=UIKit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-green?logo=SwiftUI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI/UX-green?logo=UI/UX&logoColor=white"/>
+</div>
+
+## Software
+<div>
+  <img src="https://img.shields.io/badge/Xcode-blue?logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-blue?logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sketch-blue?logo=sketch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-blue?logo=Adobe%20XD&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-blue?logo=Adobe%20Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-blue?logo=Adobe%20InDesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Corel%20Draw-blue?logo=coreldraw&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-blue?logo=adobe%20illustrator&logoColor=white"/>
+</div>
+<br />
+<br />
+<br />
+<div align="right"><img src="https://komarev.com/ghpvc/?username=alekseydolinin&style=flat-square&color=blue" alt=""/></div>
