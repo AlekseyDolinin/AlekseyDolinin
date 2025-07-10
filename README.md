@@ -4,9 +4,9 @@
 [![](https://img.shields.io/badge/-@allDolinin-%23000000?style=flat-square&logo=telegram)](https://t.me/alekseydolinin)
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-<a href="https://htmlacademy.ru](https://vovlekay.online"><img src="/w_1.svg"></a>
-<a href="https://github.com/AlekseyDolinin/BB_SUI](https://vovlekay.online"><img src="/w_2.svg"></a>
-<a href="https://github.com/AlekseyDolinin/Run](https://vovlekay.online"><img src="/w_3.svg"></a>
+<a href="https://vovlekay.online"><img src="/w_1.svg"></a>
+<a href="https://github.com/AlekseyDolinin/BB_SUI"><img src="/w_2.svg"></a>
+<a href="https://github.com/AlekseyDolinin/Run"><img src="/w_3.svg"></a>
 
 ## Languages
 <div>
