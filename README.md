@@ -12,9 +12,10 @@
 
 ## Languages
 <div>
-  <img src="https://img.shields.io/badge/swift-orange?logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?logo=Python&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Swift.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"  width="60" height="60"/>
 </div>
+
 
 ## Tech stack
 <div>
@@ -35,6 +36,8 @@
   <img src="https://img.shields.io/badge/UIKit-green?logo=UIKit&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-green?logo=SwiftUI&logoColor=white"/>
   <img src="https://img.shields.io/badge/UI/UX-green?logo=UI/UX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swift-grey?logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-grey?logo=Python&logoColor=white"/>
 </div>
 
 ## Software
@@ -47,6 +50,7 @@
   <img src="https://img.shields.io/badge/Adobe%20InDesign-blue?logo=Adobe%20InDesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/Corel%20Draw-blue?logo=coreldraw&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-blue?logo=adobe%20illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vscode-blue?logo=vscode&logoColor=white"/>
 </div>
 <br />
 <br />
