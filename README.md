@@ -14,8 +14,9 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"  width="60" height="60"/>
 </div>
 
+<br />
+<br />
 
-## Tech stack
 <div>
   <img src="https://img.shields.io/badge/Git-15191F?logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST API-15191F?logo=RESTAPI&logoColor=white"/>
@@ -39,6 +40,10 @@
   <img src="https://img.shields.io/badge/Core%20Location-15191F?logo=CoreLocation&logoColor=white"/>
   <img src="https://img.shields.io/badge/MapKit-15191F?logo=MapKit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kingfisher-15191F?logo=Kingfisher&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftyJSON-15191F?logo=SwiftyJSON&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lottie-15191F?logo=Lottie&logoColor=white"/>
+  <img src="https://img.shields.io/badge/URLSession-15191F?logo=URLSession&logoColor=white"/>
+  
 </div>
 
 ## Software
