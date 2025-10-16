@@ -58,7 +58,14 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-blue?logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-blue?logo=vscode&logoColor=white"/>
 </div>
+
 <br />
 <br />
+
+<div>
+  <img src="https://www.codewars.com/users/allDolinin/badges/small"/>
+</div>
 <br />
-<div align="right"><img src="https://komarev.com/ghpvc/?username=alekseydolinin&style=flat-square&color=blue" alt=""/></div>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=alekseydolinin&style=flat-square&color=blue" alt=""/>
+</div>
